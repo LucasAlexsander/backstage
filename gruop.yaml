@@ -4,7 +4,7 @@ metadata:
   name: ipadmins
   description: The infra business unit
 spec:
-  type: teams
+  type: team
   profile:
     displayName: Infrastructure
     email: infrastructure@example.com
